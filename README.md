@@ -1,8 +1,8 @@
 # E-LEARNING-PLATFORM-UI
 📄 Internship Details
 🏢 Company: CodTech IT Solutions
-👨‍💻 Name: Yuvraj Sahoo
-🆔 Intern ID: CT04DG1472
+👨‍💻 Name: BIKASH MALI
+🆔 Intern ID: CT04DG1461
 💻 Domain: Frontend Web Development
 ⏳ Duration: 4 Weeks
 👨‍🏫 Mentor: Neela Santosh
@@ -48,3 +48,8 @@ Learned to build a structured, multi-page layout for educational platforms
 Practiced responsive design using media queries and flex/grid layout
 Gained experience in DOM manipulation and UI state handling
 Understood how to simulate user learning progress using JS logic
+
+<img width="1881" height="865" alt="Image" src="https://github.com/user-attachments/assets/46237e6c-46bf-4381-b54c-df97e459a59e" />
+<img width="1885" height="908" alt="Image" src="https://github.com/user-attachments/assets/99dcace0-4afd-49b2-9a07-189f54988571" />
+<img width="1885" height="908" alt="Image" src="https://github.com/user-attachments/assets/f1191b64-8e65-4d52-8b33-13d22c45bd5b" />
+<img width="1897" height="913" alt="Image" src="https://github.com/user-attachments/assets/dcc7f984-c069-472e-a546-9c5b6183a7d8" />
